@@ -1,4 +1,4 @@
-# JaCoCoCodeCoverage
+# Android-Code-Coverage-With-JaCoCo
 
 ---
 Struggled to get the combined code coverage report with multiple project constraints?
