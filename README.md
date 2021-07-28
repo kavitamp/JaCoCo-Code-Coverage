@@ -11,7 +11,7 @@ This project will help you to get the combined(test & androidTest) test case cod
 4. Define the specific folder for the coverage report.
 
 ## Command:
-./gradlew clean 'defineYourProductFlavourName'CoverageReport
+./gradlew clean 'defineYourProjectFlavorName'CoverageReport
 
 For example:
 1. ./gradlew clean devDebugCoverageReport
